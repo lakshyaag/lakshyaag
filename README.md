@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I'm Lakshya
 - 👀 I'm interested in utilizing the power of analytics and machine learning with big data to drive business insights.
+- 💭 In my free time, I like to explore new tools and learn many things!
 - 🔭 I’m currently studying [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma)
 - 👨‍💻 All of my projects are available at [lakshyaag.com](https://lakshyaag.com)
 - 📫 How to reach me: lakshya.agarwal@mail.mcgill.ca
