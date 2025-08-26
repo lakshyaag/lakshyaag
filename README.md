@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👀 Keen interest in leveraging analytics, machine learning, and AI to tackle real-world challenges and drive positive impact
 - 💭 Insatiably curious - always exploring new domains, learning cutting-edge skills, and pushing boundaries
 - 👨‍💻 I'm currently working as a Software Engineer, Private Equity at [Bain & Company](https://www.bain.com/).
-- 🔭 Recently completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) from McGill University
+- 🔭 I have a [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) from McGill University
 - 👨‍💻 All of my projects are available at [lakshyaag.com](https://lakshyaag.com)
 - 📫 How to reach me: lakshya.agarwal@mail.mcgill.ca or lakshyagrwal12@gmail.com
 - 😄 Pronouns: he/him/his
